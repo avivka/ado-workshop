@@ -1,0 +1,1 @@
+# The file /my-python-microservices-app/my-python-microservices-app/service1/__init__.py is intentionally left blank.
