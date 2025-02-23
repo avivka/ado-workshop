@@ -1,0 +1,8 @@
+# azure-pipelines.yml
+trigger:
+- main
+
+stages:
+- template: templates/build_python.yaml
+  parameters:
+    PYTHON_VERSION: '3.10'

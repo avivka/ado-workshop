@@ -1,5 +1,3 @@
-# my-python-microservices-app/my-python-microservices-app/README.md
-
 # My Python Microservices App
 
 This project is a sample application demonstrating a basic microservices architecture using Python and Flask. It consists of two services, `service1` and `service2`, which communicate with each other and can be run in a containerized environment using Docker.

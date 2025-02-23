@@ -21,7 +21,5 @@
 Switch to the imported Azure Repos repo (that was imported from this very own repo) named after your Azure Project
 There, under 'Files', click on 'Set up build', Choose 'Existing Azure Pipelines YAML file' and follow the pipelines creation flow.
 
-
-
 Under Files of this imported Create Starter pipeline
 
