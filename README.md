@@ -3,7 +3,7 @@
 ## Lab Navigation
 
 1. aka.ms/lod
-2. Sign in -> Microsoft Account -> Login with a Microsoft Account
+2. Sign in -> Microsoft Account -> Login with a Microsoft Account (not work account) 
 3. Accept 'Let this app access your info'
 4. Select your country
 5. WorkshopPlus -> My Training -> Redeem Training Key -> Enter the key that was verbaly shared in class
