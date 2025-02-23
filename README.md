@@ -11,11 +11,12 @@
 7. Login to your end station using the username and password at the 'Credentials' tab
    1. Use the 'T' sign to to type the text straight to your prompt
 8. Follow the guidance at the 'Lab Manual' instructions:
-   1. Follow Until Module 2: Projects, Lab 1: Projects Exercise 2: Manage Projects, Skip Exercise 2 and go straight to Exercise 3: Project Security
-   2. Follow Exercise 3 and Exercise 4, Skip Exercise 5 and Exercise 6
-   3. Follow Module 2: Projects, Lab 2: PartsUnlimited Lab Setup Entirely
-      1. In Exsercise 1 Task 1 Subtask 2 - Treat 'General' as 'Settings'
-   4. At Module 3: Azure Repos - Git
+   1. Follow Until Module 2: Projects, Lab 1: Projects Exercise 2: Manage Projects, Skip it and go straight to Exercise 3: Project Security
+   2. Follow Module 2 Exercise 3 and Exercise 4, Skip Exercise 5 and Exercise 6
+   3. Skip Lab 2: PartsUnlimited Lab Setup entirely and continue to Module 3: Azure Repos with Git, Lab 1: Getting Started with Git, Exercise 1: Configuring Azure Repos Lab Environment
+   4. Instead of following Module 3: Azure Repos with Git, Lab 1: Getting Started with Git, Exercise 2: Cloning Existing Azure Repository , import this repo using the following guide:
+      1. At CustomerPortal Project, go to Repos -> Files and Import this repository - The clone URL is https://github.com/avivka/ado-workshop.git and import.
+      2. Under Set up build -> Choose 'Existing Azure Pipelines YAML file' and start by choosing simple_pipeline.yaml as the initial pipeline
 
 ## After 
 Switch to the imported Azure Repos repo (that was imported from this very own repo) named after your Azure Project
