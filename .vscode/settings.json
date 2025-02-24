@@ -3,5 +3,6 @@
         "python-ms-app"
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": true,
+    "azure-pipelines.1ESPipelineTemplatesSchemaFile": true
 }
